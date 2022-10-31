@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">play</string>
+    <string name="title_activity_main">play</string>
+    <string name="package_name">com.carp.app</string>
+    <string name="custom_url_scheme">com.carp.app</string>
+</resources>
